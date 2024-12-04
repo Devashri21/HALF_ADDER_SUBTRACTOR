@@ -65,7 +65,8 @@ Figure -02 HALF Subtractor
 
 **OUTPUT/TIMING WAVEFORM:**
 
-![Uploading WhatsApp Image 2024-12-03 at 22.45.43_cf10f04d.jpg…]()
+![WhatsApp Image 2024-12-03 at 22 45 43_cf10f04d](https://github.com/user-attachments/assets/199a2f58-1792-43b3-bfd5-33d1597052a9)
+
 
 
 **RESULT:**
