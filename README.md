@@ -1,9 +1,9 @@
-# EXPIREMENT NO: 3
+
 **NAME: DEVASAHRI S**
 
 **REF NO: 24001806**
 
-# HALF ADDER SUBTRACTOR
+# EXPIREMENT NO: 3 HALF ADDER SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
