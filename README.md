@@ -3,7 +3,7 @@
 
 **REF NO: 24001806**
 
-# EXPIREMENT NO: 3 HALF ADDER SUBTRACTOR
+# EXPIREMENT NO: 3 IMPLEMENTATION OF HALF ADDER SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
